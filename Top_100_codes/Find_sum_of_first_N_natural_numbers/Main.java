@@ -24,5 +24,8 @@ public class Main
      for (int i = 1; i <= n; i++)
          sum += i;
        System.out.print("The sum of " +n+ " number is "+sum);
+
+       sc.close();
    }
+
  }
