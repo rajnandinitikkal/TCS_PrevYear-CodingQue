@@ -1,5 +1,4 @@
 import java.util.Arrays;
-
 public class Main {
     public static void main(String[] args) {
         int arr1[] = {1,2,4,7,7,5};
