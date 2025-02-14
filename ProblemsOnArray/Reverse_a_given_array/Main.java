@@ -8,7 +8,7 @@ public class Main {
         int n = sc.nextInt();
 
         int[] array = new int[n];
-        System.out.println("Enter elements of array: ");
+        System.out.print("Enter elements of array: ");
         for(int i = 0; i<n; i++){
             array[i] = sc.nextInt();
         }
