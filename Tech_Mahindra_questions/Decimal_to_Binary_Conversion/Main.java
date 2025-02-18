@@ -1,3 +1,4 @@
+
 public class Main {
     static void decToBinary(int n)
     {
