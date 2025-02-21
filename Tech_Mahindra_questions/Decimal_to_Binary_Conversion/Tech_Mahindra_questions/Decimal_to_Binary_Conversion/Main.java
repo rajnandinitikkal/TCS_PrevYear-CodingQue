@@ -1,4 +1,4 @@
-
+package Tech_Mahindra_questions.Decimal_to_Binary_Conversion;
 public class Main {
     static void decToBinary(int n)
     {
