@@ -16,7 +16,7 @@ public class Main {
         H = sc.nextInt();
 
         if(B<=0 ||H<=0){
-            System.out.println("")
+            System.out.println("java.lang.Exception: Breadth and height must be positive");
             flag = true;
         }
     }
